@@ -1,1 +1,2 @@
-# pgo-tutorial1
+# Michal Szpyruk
+## 13 / s31301
